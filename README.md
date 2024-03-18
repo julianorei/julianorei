@@ -11,7 +11,7 @@
 - 🔫 Storm PVP (FiveM)
 
 # 📀 JULIANO | GITHUB STATS:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianorei&show_icons=true&theme=yellow)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianorei&show_icons=true&theme=blue)
 
 # 💿 JULIANO | TOP LANGAGES:
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianorei&layout=compact&theme=dark)
