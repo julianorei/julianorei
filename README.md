@@ -1,18 +1,18 @@
-# 📖 JULIANO | INFO
+# 📖 MIMOSO | INFO
 
 - 📄 My perfil name, @julianorei.
 - 📄 I'm working on a big project.
 - 📄 I have these reporsitories to help the community.
 - 📄 Now just learn!
 
-# 💻 JULIANO | PROJECTS
+# 💻 MIMOSO | PROJECTS
 
 - 🌴 Summer Roleplay (FiveM Server)
 - 🛒 MGym Shop (Dropshipping Shop)
 - 💻 Dev My Website (Web Development)
 
-# 📀 JULIANO | GITHUB STATS:
+# 📀 MIMOSO | GITHUB STATS:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianorei&show_icons=true&theme=blue)
 
-# 💿 JULIANO | TOP LANGUAGES:
+# 💿 MIMOSO | TOP LANGUAGES:
 ![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=julianorei&layout=compact&theme=blue)
