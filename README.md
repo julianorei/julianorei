@@ -7,8 +7,9 @@
 
 # 💻 JULIANO | PROJECTS
 
-- 🌴 Summer Roleplay (FiveM)
-- 🔫 Storm PVP (FiveM)
+- 🌴 Summer Roleplay (FiveM Server)
+- 🛒 MGym Shop (Dropshipping Shop)
+- 💻 Dev My Website (Web Development)
 
 # 📀 JULIANO | GITHUB STATS:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julianorei&show_icons=true&theme=blue)
